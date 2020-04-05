@@ -1,0 +1,20 @@
+{
+   "ad_html": "'<div id=\\\\'beacon_yU7an9S5ZNUkoGEyhaZ-ZE6XQR\\\\' style=\\\\'position: absolute; left: 0px; top: 0px; visibility: hidden;\\\\'><img src=\\\\'https://ox-delivery-prod-1-us-central1.openx.net/w/1.0/ri?ph=4ab08c87-bd85-4c24-95a6-119ab5a97781&ts=2DAABBgABAAECAAIBAAsAAgAAAX0cGApFa0dsTGh2bGlUHBalxZ2Vgt2ZhBsWz9Hf7LG7y9uuAQAcFu3Q7a2XlcCEVRalnpO1lfDcw6IBABa29Y3mCxUEOCQ1NWQwYmM2MC04Njk5LTQ1Y2UtOWRhYy03ODRjYWI0NGE5ZTYALBwVAgAcFQIAHBUCAAAcJp6f5oMEFQQVBCaGn-aDBBb-h-aDBNY0FjQWNBYUFhQWFBYUFlAAHBwsFoCxiqS77IOtKhbrsrXZ5-KA56UBAAAW9vahgAQWrL-6gAQWtvGEggQWxPnxgAQVGBwUsAkU2AQAFQQmUBZQFlARNQ4ALCwWhoGSnInw7bN4Fr_Aqp_Xh7KawQEAFrb1jeYLBij29qGABBasv7qABBbE-fGABBa28YSCBBgKNDExNzY5NDc5ORa4lAEWUCUEFhwYBjQ1ODE2OBUClsLKjAIRERgCT1gMehS4CxTkBAAWAhgDcnRigQAMPDgbZXZlcmVzdHRlY2gubmV0QGxpYmVydHkuZWR1AAAA\\\\'/></div><img src=\"https://rtb-lb-event-iad-1b-tm.everesttech.net/rtb/e.png?e=win&aid=3c33dbc0-49c2-4043-9f65-9be1460aafe0.1&cp=2204121&slot=1&x_price=AAABcK3LruPXyFx5vk22dCKAesWhCDtmOIPQFg&ets=1583463771757&tz=America%2FNew_York&source=openx&suid=XlUVewAAACE88zft&fc=1&fci=1&country=US&region=IA&mc=48&ap=0&ut=0&vis=UNKNOWN&site=y5ia28nqoaip0QbjsY9w&bp=40000&curr=USD&exr=1.0&fid=Kxj2ilefT2dP544VKFNQ&c=4117694799&ccurr=USD&cuxr=1.0&a=458168&ca=662065&st=DISPLAY&sh=600&sw=300&rid=4195&mp=143&psk=y5ia28nqoaip0QbjsY9w&cfc=1&cfci=1&dur=-1&cityid=-1&metroid=51&countryid=232&postalid=23406&did=XlUVewAAACE88zft&didtype=TM_COOKIE_ID&duration=10&v=1&auth=5ZY5haWra94k3M-T8dIVN7FWVak&x_r=1RoFnw\" style=\"height: 0px; display: block;\" /><script>var proto = document.location.protocol; if (proto != \\\\'https:\\\\') proto = \\\\'http:\\\\'; if(typeof tm_param_array == \\\\'undefined\\\\')tm_param_array=[];tm_param_array[ \"3c33dbc0-49c2-4043-9f65-9be1460aafe0.1\" ] = {\"ifd\": {getIframeData:function(g,d){var c={count:d.count,burl:d.burl,rurl:d.rurl},a,b,h;try{if(g.location&&g.location.href){b=g.location.href;if(!!b){c.burl=b}}}catch(f){}try{a=g.document.referrer;c.count=0}catch(f){c.count++}if(!!a){c.rurl=a}if(g!=top){h=this.getIframeData(g.parent,c)}else{h=c}return h},getRurl:function(){var c=this.getIframeData(window,{count:0,burl:window.location.href,rurl:null}),a=\"Unknown\";try{a=this.redactUserInfo(c.rurl.toString())}catch(b){}return a},getBurl:function(){var a=this.getIframeData(window,{count:0,burl:window.location.href,rurl:null}),b=\"Unknown\";b=this.redactUserInfo(a.burl.toString());return b},getWd:function(){var c=this.getIframeData(window,{count:0,burl:window.location.href,rurl:null}),a=-1;try{a=parseInt(c.count)}catch(b){}return a},redactUserInfo:function(a){if(a.indexOf(\"facebook.com/\")>-1){var b=a.split(\"?\");a=b[0]+\"---REDACTED_FOR_PRIVACY---\"}return a}},\"auction_id\": \"3c33dbc0-49c2-4043-9f65-9be1460aafe0.1\"",
+   "cpm": "0.026000000000000002",
+   "bidder": "'openx'",
+   "originalCurrency": "'USD'",
+   "pbHg": "'0.02'",
+   "pbLg": "'0.00'",
+   "pbCg": "''",
+   "pbMg": "'0.00'",
+   "pbAg": "'0.00'",
+   "pbDg": "'0.02'",
+   "currency": "'USD'",
+   "height": "600",
+   "size": "'300x600'",
+   "width": "300",
+   "mediaType": "'banner'",
+   "bidderCode": "'openx'",
+   "originalCpm": "0.026000000000000002",
+   "statusMessage": "'Bid available'"
+}

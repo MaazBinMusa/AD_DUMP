@@ -1,0 +1,20 @@
+{
+   "ad_html": "'<span class=\"PubAPIAd\"  id=\"983D9E55-D896-4836-ACAE-FE9531104D5B\"><div class=\\\\'cnvr-ubr-adm cnvr-ubr-adm-541105366990737244\\\\'><script>     /* 1.9.1 | 6a4b64a | Wed",
+   "cpm": "0.03",
+   "bidder": "'pubmatic'",
+   "originalCurrency": "'USD'",
+   "pbHg": "'0.03'",
+   "pbLg": "'0.00'",
+   "pbCg": "''",
+   "pbMg": "'0.00'",
+   "pbAg": "'0.00'",
+   "pbDg": "'0.03'",
+   "currency": "'USD'",
+   "height": "250",
+   "size": "'300x250'",
+   "width": "300",
+   "mediaType": "'banner'",
+   "bidderCode": "'pubmatic'",
+   "originalCpm": "'0.03'",
+   "statusMessage": "'Bid available'"
+}

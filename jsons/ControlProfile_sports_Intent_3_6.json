@@ -1,0 +1,20 @@
+{
+   "ad_html": "{'pubapiId': '44209206479297033'",
+   "cpm": "0.3120000000000001",
+   "bidder": "'aol'",
+   "originalCurrency": "'USD'",
+   "pbHg": "'0.31'",
+   "pbLg": "'0.00'",
+   "pbCg": "'0.31'",
+   "pbMg": "'0.30'",
+   "pbAg": "'0.30'",
+   "pbDg": "'0.31'",
+   "currency": "'USD'",
+   "height": "600",
+   "size": "'300x600'",
+   "width": "300",
+   "mediaType": "'banner'",
+   "bidderCode": "'aol'",
+   "originalCpm": "0.39",
+   "statusMessage": "'Bid available'"
+}

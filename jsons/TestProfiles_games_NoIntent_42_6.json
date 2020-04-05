@@ -1,0 +1,20 @@
+{
+   "ad_html": "'<div id=\\\\'beacon_lt1peSB8naMZBcqw8v8-3eHct8\\\\' style=\\\\'position: absolute; left: 0px; top: 0px; visibility: hidden;\\\\'><img src=\\\\'https://ox-delivery-prod-1-us-central1.openx.net/w/1.0/ri?ph=4ab08c87-bd85-4c24-95a6-119ab5a97781&ts=2DAABBgABAAECAAIBAAsAAgAAAXQcGApkM0pscXRwTVc3HBbYvZLD7a_N56kBFq--z9CC3ZWB1QEAHBbgm8Lqhob6mOgBFqPizoSny_b9iAEAFuTsjeYLFQQ4JGJmNjZiYzkzLTdlZTQtMGMwMi0xZTc5LTY3NWU1YTllYzE4NAAsHBUCABwVAgAcFQIAABwmnp_mgwQVBBUEJoaf5oMEFv6H5oME1iIWIhYiFhQWFBYUFhQWNgAcHCwWgLGKpLvsg60qFuuytdnn4oDnpQEAABa82ZiABBbEvpuABBbu2aSABBaAiKCABBUYHBSwCRTYBAAVBCY2FjYWNhE1DgAsLBaYqsr2rrnjoPgBFoW9iqnbiq6blwEAFuTsjeYLBii82ZiABBbEvpuABBaAiKCABBbu2aSABBgJMTU4ODM0MDc0FpqTARY2JQQWFBgGMzMzNjMzFQKWwsqMAhERGAJPWAx6FLQJFNoEABYCGANydGKCAAw8OBB6ZW5uaW9wdGljYWwuY29tAAAA\\\\'/></div><DIV STYLE=\"position: absolute; left: 0px; top: 0px; visibility: hidden;\"><IMG SRC=\"https://pagead2.googlesyndication.com/pagead/gen_204?id=xbid&dbm_b=AKAmf-AjUbiKHJkhs2E6FMEXmKx_Y6oSKf6NG7sycOWdkFPtKdRzVDXw5PbFikZbFeJ6h63Ix0V_739KznSGu5mp7ID2PeyhUI43f3Gq6Gm87BVpFDn7Qv8\" BORDER=0 WIDTH=1 HEIGHT=1 ALT=\"\" STYLE=\"display:none\"></DIV><iframe title=\"Blank\" src=\"https://googleads.g.doubleclick.net/xbbe/pixel?d=CMGuFBCuxmIYmrveSzAB&v=APEucNWaUcTkDpdDiHo4MJoNM-4_zD8zgK4R6EOs-HOA-2HtM56M1ZDMSf9uY2ImICqbMiExXIbTo1yjgb70CD67g6T-5F6QDg\" style=\"display:none\" aria-hidden=\"true\"></iframe><div><div style=\"position:relative; display:inline-block;\"><script data-jc=\"75\">(function(){/*  Copyright The Closure Library Authors. SPDX-License-Identifier: Apache-2.0 */ var k=this||self;var l=Array.prototype.forEach?function(a,b){Array.prototype.forEach.call(a,b,void 0)}:function(a,b){for(var d=a.length,c=\"string\"===typeof a?a.split(\"\"):a,e=0;e<d;e++)e in c&&b.call(void 0,c[e],e,a)},m=Array.prototype.map?function(a,b){return Array.prototype.map.call(a,b,void 0)}:function(a,b){for(var d=a.length,c=Array(d),e=\"string\"===typeof a?a.split(\"\"):a,f=0;f<d;f++)f in e&&(c[f]=b.call(void 0,e[f],f,a));return c},n=Array.prototype.reduce?function(a,b,d){return Array.prototype.reduce.call(a,b",
+   "cpm": "0.017",
+   "bidder": "'openx'",
+   "originalCurrency": "'USD'",
+   "pbHg": "'0.01'",
+   "pbLg": "'0.00'",
+   "pbCg": "''",
+   "pbMg": "'0.00'",
+   "pbAg": "'0.00'",
+   "pbDg": "'0.01'",
+   "currency": "'USD'",
+   "height": "600",
+   "size": "'300x600'",
+   "width": "300",
+   "mediaType": "'banner'",
+   "bidderCode": "'openx'",
+   "originalCpm": "0.017",
+   "statusMessage": "'Bid available'"
+}

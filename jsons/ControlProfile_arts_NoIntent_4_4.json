@@ -1,0 +1,20 @@
+{
+   "ad_html": "'<script>document.createElement(\\\\'IMG\\\\').src=\"https://tlx.3lift.com/header/notify?px=1&pr=${AUCTION_PRICE}&ts=1583455825&aid=15219264957812479740&ec=4945_66498_358660_ssl&n=GqwDaHR0cDovL3J0Yi11c3cubWZhZHNydnIuY29tL2ltcF9zMnMvdjEvU0dkWVFNb1owYkVUS2lQSGZyYTRNUmVNSzQzOVV2ajBlT0w4UzRPaDFYbW1mZTYwR2NjZXVjeGJXcGJxNGl2S2dlMEFhenpBcjhZS3FHTE1TNVZaWklMX0RHQ3Z6SUhLYjVvWTZleFFnZ3ozMWpfZmFZZkJDVU9EN1BSR0VLblVRMk5qZFpLd0xBN1lOdHJmLVg4N0ZWTWt6akV3c0k5YjlFekI3YWljSHNXZDhIcEpDZzdUdHEyU2Utd1huQ0ZvVU9kUnplY0ROc3I1ajZMZFlSNkFuTFpKX2k5Mnd2V1NpZU9PeEhnZG5tX1lfTmlMbWE3d1dWZjZqTEo5WV9RallqZ3U4OVJsQktoSUNzaS1CVG45OHR1eGVxQnNMNHFpcTQ4Y000U2ljcXpUMTdVQmJmYkFtR2ZDdndteWdTSnItelVJWGRLRmhlbVJtVFdvZGpfRUlGLVB1d0w3Ykk5c2xCbTB4REFQcWdxTW5kckI1MkpLMXkzTjlGbEhqTDItLzAuMzHyAqEBCAASFDE1MjE5MjY0OTU3ODEyNDc5NzQwGAAgASjRJjDChwRAAUgAUABgAWgAcNnAGJABAJgBAKgB7tyhBbABtgK4AZYBwAH4AcgBtgLgAaAB8AEA%2BAG2AoAC%2BAGIAqABkQIAAAAAAADwP5kCmpmZmZmZyT%2BhAgAAAAAAAPA%2FqAIAsAIByAIC2AIA8QJmZmZmZmbmP%2FgC0SaQAwKYAwCgAwD4AgyIAwCSAwQzMWFj\";window.tl_auction_response_722392={\"settings\":{\"advertiser_name\":\"Gundry MD\",\"viewability\":{},\"impression_pixels\":[\"https:\\\\\\\\/\\\\\\\\/rtb-usw.mfadsrvr.com\\\\\\\\/sync?ssp=triplelift&seller_network=triplelift_&bid_id=985cdfcc-fc0e-47d4-93d9-5e125ae9c6d8&initiator=me\"],\"type\":\"image\",\"additional_data\":{\"bc\":\"0.31\",\"uid\":\"18371413294432414418\",\"pr\":\"${AUCTION_PRICE}\",\"brid\":\"401497\",\"bmid\":\"4945\",\"aid\":\"15219264957812479740\",\"ts\":\"1583455825\",\"sid\":\"66498\"},\"adchoices_url\":\"https:\\\\\\\\/\\\\\\\\/optout.aboutads.info\\\\\\\\/\",\"format_id\":1,\"render_options_bm\":0},\"assets\":[{\"image_id\":11038318,\"image_url\":\"\\\\\\\\/\\\\\\\\/images.3lift.com\\\\\\\\/11038318.jpg\",\"image_width\":400,\"image_height\":300,\"heading\":\"Drink This Before Bed",
+   "cpm": "0.24800000000000003",
+   "bidder": "'triplelift'",
+   "originalCurrency": "'USD'",
+   "pbHg": "'0.24'",
+   "pbLg": "'0.00'",
+   "pbCg": "'0.24'",
+   "pbMg": "'0.20'",
+   "pbAg": "'0.20'",
+   "pbDg": "'0.24'",
+   "currency": "'USD'",
+   "height": "2",
+   "size": "'2x2'",
+   "width": "2",
+   "mediaType": "'banner'",
+   "bidderCode": "'triplelift'",
+   "originalCpm": "0.24800000000000003",
+   "statusMessage": "'Bid available'"
+}

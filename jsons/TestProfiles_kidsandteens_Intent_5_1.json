@@ -1,0 +1,20 @@
+{
+   "ad_html": "'<script>var ecp = \"1.133\";var replacement = \"\";var crypt_replacement = \"AAABcK1rXAnSAGqAob1g6peUU1MF8tq5H_7SDw\";var adm = \"<div id=\\\\\\\\\\\\'beacon_10785\\\\\\\\\\\\' style=\\\\\\\\\\\\'position:absolute;left:0px;top:0px;visibility:hidden;\\\\\\\\\\\\'><img src=\\\\\\\\\\\\'https://rtb-us-west1.openx.net/win/sovrn?p=1.133&t=2DAABBgABAAECAAIBAAsAAgAAAWocGApqckQ3cmRlRkFNHBbt8LWOmbzkjZwBFoeZibWh9ovHkQEAHBaGocrdsen_1b8BFqPH_6WNr8mekQEAFuaSjeYLFQY4JDlmMjY2YzMzLTFjNGYtNDljNS05YWFhLTY4MjU1ZGFjYTI2NwAsHBUCABwVAgAcFQIAABwm3MyMggQVBBUEJs7LjIIEFvbz_oEE1toRFtoRFtoRFgAWABYAFgAW1BsAHBwsFoCxiqS77IOtKhbrsrXZ5-KA56UBAAAWjNqYgAQW_MCbgAQW8oiigAQWjL-egAQVGBwUtAEUsAsAFQQm1BsW1BsW1hsRNQ4ALCwWrLvyyO6y44DTARbn6vC7y-O5s48BABbmko3mCwYojNqYgAQW_MCbgAQWjL-egAQW8oiigAQYCDE0NDM3Mzk3FrraBRbWGyUEFvoJJQKWwMqMAhEoAk9YDHoUuAEUpgYAFgIYA3J0YoEADDw4B3VpdS5lZHUAAAA&ph=21f03281-5b83-4670-a0e0-dc15f7542014&pmd=1\\\\\\\\\\\\'/><\\\\\\\\/div><iframe src=\\\\\\\\\"https://westads.simpli.fi/ads/1686932/14437397/ad.html?sifi=7369,1686932,14437397,257481584708965,2,0,0,0,0,1,31,v,23.03418,AUDIT,0,0,0,19,ED382938C42741B4AA3EAD18EBB1630D,0,0,0,1,400,1,0,0,601,0,701,sjbid64:9034-1583457459169-154520813,1,0,395291,2,0,23,12,52242,0,0.45,0,0,2164219938,0,0,0,1,-5,0,97,,0,102008,0,0,3,-1,538959099,15,-1,4862034&sifi_exchange_uid=d7a11e65-6599-131f-d5ad-633a5119515e&request_id=6980c6cb-748e-4ed6-b84c-8c71a441e54c\\\\\\\\\" width=\\\\\\\\\"728\\\\\\\\\" height=\\\\\\\\\"90\\\\\\\\\" frameborder=\\\\\\\\\"0\\\\\\\\\" marginwidth=\\\\\\\\\"0\\\\\\\\\" marginheight=\\\\\\\\\"0\\\\\\\\\" scrolling=\\\\\\\\\"no\\\\\\\\\"><\\\\\\\\/iframe><iframe src=\\\\\\\\\\\\'https://us-u.openx.net/w/1.0/pd?plm=6&ph=21f03281-5b83-4670-a0e0-dc15f7542014\\\\\\\\\\\\' width=\\\\\\\\\\\\'0\\\\\\\\\\\\' height=\\\\\\\\\\\\'0\\\\\\\\\\\\' style=\\\\\\\\\\\\'display:none;\\\\\\\\\\\\'><\\\\\\\\/iframe>\";if (ecp === \"AUDIT\" || ecp === \"${AUCTION\"+\"_PRICE}\" || ecp === \"0\" || ecp === \"\") {  replacement = \"AUDIT\";  crypt_replacement = \"AUDIT\";};adm = adm.replace(/{ROOSKI}/g",
+   "cpm": "0.7930999864935878",
+   "bidder": "'sovrn'",
+   "originalCurrency": "'USD'",
+   "pbHg": "'0.79'",
+   "pbLg": "'0.50'",
+   "pbCg": "''",
+   "pbMg": "'0.70'",
+   "pbAg": "'0.75'",
+   "pbDg": "'0.79'",
+   "currency": "'USD'",
+   "height": "90",
+   "size": "'728x90'",
+   "width": "728",
+   "mediaType": "'banner'",
+   "bidderCode": "'sovrn'",
+   "originalCpm": "0.7930999864935878",
+   "statusMessage": "'Bid available'"
+}

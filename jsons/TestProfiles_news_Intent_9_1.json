@@ -1,0 +1,20 @@
+{
+   "ad_html": "'<script type=\"text/javascript\">var compassSmartTag={h:\"10579\",t:\"26047\",d:\"2\",referral:\"drudgereport.com\",y_b:{y:\"j\",s:\"300x250\"}};</script><script src=\"//cdn.marphezis.com/cmpp/cst.min.js\"></script><div style=\"position:absolute;left:0px;top:0px;visibility:hidden;\"><img src=\"//brightcombid.marphezis.com/hbwin?key=56e5f493e29bb19f2cc188f669344fae&statskey=f9390579605f83a17fba192e5b89f8d4&bid=0.05&placementId=div-gpt-ad-1564685732534-0&impId=2160ed300cb587a8&cb=1583458108459\"></div>'",
+   "cpm": "0.05",
+   "bidder": "'brightcom'",
+   "originalCurrency": "'USD'",
+   "pbHg": "'0.05'",
+   "pbLg": "'0.00'",
+   "pbCg": "''",
+   "pbMg": "'0.00'",
+   "pbAg": "'0.05'",
+   "pbDg": "'0.05'",
+   "currency": "'USD'",
+   "height": "250",
+   "size": "'300x250'",
+   "width": "300",
+   "mediaType": "'banner'",
+   "bidderCode": "'brightcom'",
+   "originalCpm": "0.05",
+   "statusMessage": "'Bid available'"
+}

@@ -1,0 +1,20 @@
+{
+   "ad_html": "'<div id=\\\\'beacon_JPTU_NKfSSgi_0gPcJ7iUbYNwp\\\\' style=\\\\'position: absolute; left: 0px; top: 0px; visibility: hidden;\\\\'><img src=\\\\'https://ox-delivery-prod-1-us-central1.openx.net/w/1.0/ri?ph=4ab08c87-bd85-4c24-95a6-119ab5a97781&ts=2DAABBgABAAECAAIBAAsAAgAAAWgcGApPalo0dm0xTklOHBaN2bXumv_96ysWu5-0vO7FvcWIAQAcFvicypfVz4PRbhax0fP29OG77I4BABak9Y3mCxUEOCQ1YmU5YzQxZS1mNzhjLTBiOGItMmNiNC05YjNhZDM0Y2RiZjcALBwVAgAcFQIAHBUCAAAcJpqf5oMEFQQVBCaGn-aDBBb-h-aDBNbaERbaERbaERYUFhQWFBYUFtQbABwcLBaAsYqku-yDrSoW67K12efigOelAQAAFozamIAEFvzAm4AEFvKIooAEFoy_noAEFRgcFLQBFLALABUEJtQbFtQbFtYbETUOACwsFpvpvYDJib3b1QEW4eeIk-eXw4C2AQAWpPWN5gsGKIzamIAEFvzAm4AEFoy_noAEFvKIooAEGAgxNDQzNzM5Nxa62gUW1hslBBb6CSUClsLKjAIRKAJPWAx6FLgBFKYGABYCGANydGKBAAw8OAd1aXUuZWR1AAAA\\\\'/></div><iframe src=\"https://centralads.simpli.fi/ads/1686932/14437397/ad.html?sifi=7369,1686932,14437397,257481584708965,2,0,0,0,0,1,31,v,23.03418,AAABcK3LjDyEaOhW0Hx-R25NOU3_Y0wZdkzdpA,0,0,0,21,F78E257F0E104F74A74B72A285ECBF6F,0,0,0,5,400,1,0,0,601,0,701,dalbid24:9019-1583463762869-121132612,1,0,395291,2,0,23,12,52242,0,0.45,0,0,2164219938,0,0,0,1,-5,0,97,,0,102008,0,0,3,-1,540852735,15,-1,4862034&sifi_exchange_uid=136eb648-8e5a-5151-63b3-9025dff928ce&request_id=952485d9-b7f8-45b2-a4ff-79a0c6cee60f\" width=\"728\" height=\"90\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\"></iframe>'",
+   "cpm": "1.133",
+   "bidder": "'openx'",
+   "originalCurrency": "'USD'",
+   "pbHg": "'1.13'",
+   "pbLg": "'1.00'",
+   "pbCg": "''",
+   "pbMg": "'1.10'",
+   "pbAg": "'1.10'",
+   "pbDg": "'1.13'",
+   "currency": "'USD'",
+   "height": "90",
+   "size": "'728x90'",
+   "width": "728",
+   "mediaType": "'banner'",
+   "bidderCode": "'openx'",
+   "originalCpm": "1.133",
+   "statusMessage": "'Bid available'"
+}

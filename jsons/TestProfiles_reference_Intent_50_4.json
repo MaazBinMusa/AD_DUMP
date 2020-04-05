@@ -1,0 +1,20 @@
+{
+   "ad_html": "'<script>var ecp = \"0.015\";var replacement = \"\";var crypt_replacement = \"AAABcK3N4-_Y5j9IA3RHyo77ScCrpn6xPjSnVg\";var adm = \"<div id=\\\\\\\\\\\\'beacon_29703\\\\\\\\\\\\' style=\\\\\\\\\\\\'position:absolute;left:0px;top:0px;visibility:hidden;\\\\\\\\\\\\'><img src=\\\\\\\\\\\\'https://rtb-us-west1.openx.net/win/sovrn?p=0.015&t=2DAABBgABAAECAAIBAAsAAgAAAXIcGAptWm8wVWl3SkZ1HBbB59XhgYKZgfcBFrWth7Dbor2ljgEAHBbB-bWz5dmLw10Wmc6zx7zF7Y26AQAW2PeN5gsVBjgkODQ0ZWRlZDgtZDcwZi0wMTFkLTNmZDQtZjBkYmFiYzM1NzkxACwcFQIAHBUCABwVAgAAHCbYzIyCBBUEFQQmzsuMggQW9vP-gQTWHhYeFh4WABYAFgAWABYoABwcLBaAsYqku-yDrSoW67K12efigOelAQAAFrzZmIAEFsS-m4AEFvrZpIAEFoCIoIAEFRgcFPQDFNgEABUEJigWKBYwETUOACwsFrCU2sG_5ePWGBaPn8W2jqH0m68BABbY943mCwYovNmYgAQWxL6bgAQWgIiggAQW-tmkgAQYCTIyMzMwNjYwNBaakwEWMCUEFgoYBjMzMzYzMxUClsDKjAIRERgCT1gMehT4AxTaBAAWAhgDcnRigQAMPDgQemVubmlvcHRpY2FsLmNvbQAAAA&ph=21f03281-5b83-4670-a0e0-dc15f7542014&pmd=1\\\\\\\\\\\\'/><\\\\\\\\/div><DIV STYLE=\\\\\\\\\"position: absolute; left: 0px; top: 0px; visibility: hidden;\\\\\\\\\"><IMG SRC=\\\\\\\\\"https://pagead2.googlesyndication.com/pagead/gen_204?id=xbid&dbm_b=AKAmf-DyA_X54UFXrhi_bUBN67FFhVOHOU2q5lCxAGRgsW3XGHXLmMuit94tAw-mSSphE_-6tlxIXAkKycSM8OTiE3ICClz0G821Fa7L1Rc1G2zV9LQ0e-M\\\\\\\\\" BORDER=0 WIDTH=1 HEIGHT=1 ALT=\\\\\\\\\"\\\\\\\\\" STYLE=\\\\\\\\\"display:none\\\\\\\\\"><\\\\\\\\/DIV><iframe title=\\\\\\\\\"Blank\\\\\\\\\" src=\\\\\\\\\"https://googleads.g.doubleclick.net/xbbe/pixel?d=CMGuFBCuxmIY7Ma9ajAB&v=APEucNX7X4cC-FrClb90H50fugbQE6Yzp4S9YzcPhoXmRQ2KhMVIYL8LpEPqMBLPI_NFQEomCluRaTwQUV6sUyIpdBGxqaHfHw\\\\\\\\\" style=\\\\\\\\\"display:none\\\\\\\\\" aria-hidden=\\\\\\\\\"true\\\\\\\\\"><\\\\\\\\/iframe><div><div style=\\\\\\\\\"position:relative; display:inline-block;\\\\\\\\\"><script data-jc=\\\\\\\\\"75\\\\\\\\\">(function(){/*  Copyright The Closure Library Authors. SPDX-License-Identifier: Apache-2.0 */ var k=this||self;var l=Array.prototype.forEach?function(a,b){Array.prototype.forEach.call(a,b,void 0)}:function(a,b){for(var d=a.length,c=\\\\\\\\\"string\\\\\\\\\"===typeof a?a.split(\\\\\\\\\"\\\\\\\\\"):a,e=0;e<d;e++)e in c&&b.call(void 0,c[e],e,a)},m=Array.prototype.map?function(a,b){return Array.prototype.map.call(a,b,void 0)}:function(a,b){for(var d=a.length,c=Array(d),e=\\\\\\\\\"string\\\\\\\\\"===typeof a?a.split(\\\\\\\\\"\\\\\\\\\"):a,f=0;f<d;f++)f in e&&(c[f]=b.call(void 0,e[f],f,a));return c},n=Array.prototype.reduce?function(a,b,d){return Array.prototype.reduce.call(a,b",
+   "cpm": "0.010499999821186067",
+   "bidder": "'sovrn'",
+   "originalCurrency": "'USD'",
+   "pbHg": "'0.01'",
+   "pbLg": "'0.00'",
+   "pbCg": "''",
+   "pbMg": "'0.00'",
+   "pbAg": "'0.00'",
+   "pbDg": "'0.01'",
+   "currency": "'USD'",
+   "height": "250",
+   "size": "'300x250'",
+   "width": "300",
+   "mediaType": "'banner'",
+   "bidderCode": "'sovrn'",
+   "originalCpm": "0.010499999821186067",
+   "statusMessage": "'Bid available'"
+}

@@ -1,0 +1,20 @@
+{
+   "ad_html": "'<div id=\"emximp\"><script>var adm=\\\\'\\\\\\\\<script\\\\\\\\ src\\\\\\\\=\\\\\\\\\\\\'https\\\\\\\\:\\\\\\\\/\\\\\\\\/a\\\\\\\\-nj\\\\\\\\.1rx\\\\\\\\.io\\\\\\\\/rtbdeliver\\\\\\\\/js\\\\\\\\?excid\\\\\\\\=emx\\\\\\\\&pickup\\\\\\\\=ef0e9117dd64a1a3d0576ba7f9f7bc0d\\\\\\\\&zrk\\\\\\\\=3a99976ebc37005e31238a932d0f04a9\\\\\\\\&zds\\\\\\\\=3a71e129c6b300a8a5ee12ba55b5662f\\\\\\\\&imp\\\\\\\\=a2a7fa7c46ee19cc5ec9c7c1f56be14b\\\\\\\\&rtbserve\\\\\\\\=1\\\\\\\\&zwp\\\\\\\\=\\\\\\\\$\\\\\\\\{EMX_MACRO\\\\\\\\}\\\\\\\\&pv\\\\\\\\=1\\\\\\\\&prc\\\\\\\\=ZX0\\\\\\\\.7331724381216658\\\\\\\\&extra\\\\\\\\=1\\\\\\\\\\\\'\\\\\\\\>\\\\\\\\<\\\\\\\\/script\\\\\\\\><script src=\"https://imp.emxdgt.com/imp/?cp=0.05000&ts=1583456747&adom=overlanderhats.com.au&seat=1128-1&w=970&h=90&pb=0.04&sid=8886&tid=78220&pid=1287&uid=08981583456746982953e1&wid=31&dom=www.drudgereport.com&tp=${EMX_MACRO}&rf=${RF_MACRO}&crid=cr-devvzl4qu8y\"><\\\\\\\\/script>\\\\'; window.vc= \\\\'https://imp.emxdgt.com/view/?cp=0.05000&ts=1583456747&adom=overlanderhats.com.au&seat=1128-1&w=970&h=90&pb=0.04&sid=8886&tid=78220&pid=1287&uid=08981583456746982953e1&wid=31&dom=www.drudgereport.com&tp=${EMX_MACRO}&rf=${RF_MACRO}&crid=cr-devvzl4qu8y\\\\';  var ap=\"${AUCTION_PRICE}\";var rf=document.domain; window.cp=\"0.05000\"; if(ap == \"test=1\" || ap == \"AUDIT\" || rf == \"s3.amazonaws.com\"){var finaladm=adm.replace(/\\\\\\\\${EMX_MACRO}/g,\"AUDIT\"); window.audit = true;}else{var finaladm=finaladm=adm.replace(/\\\\\\\\${EMX_MACRO}/g,window.cp);}finaladm=finaladm.replace(/\\\\\\\\${RF_MACRO}/g,rf);try{document.write(decodeURI(finaladm));}catch(e){document.write(unescape(finaladm));};</script><script src=\"https://js.brealtime.com/openvv.js\"></script></div>'",
+   "cpm": "0.04",
+   "bidder": "'emx_digital'",
+   "originalCurrency": "'USD'",
+   "pbHg": "'0.04'",
+   "pbLg": "'0.00'",
+   "pbCg": "''",
+   "pbMg": "'0.00'",
+   "pbAg": "'0.00'",
+   "pbDg": "'0.04'",
+   "currency": "'USD'",
+   "height": "250",
+   "size": "'970x250'",
+   "width": "970",
+   "mediaType": "'banner'",
+   "bidderCode": "'emx_digital'",
+   "originalCpm": "0.04",
+   "statusMessage": "'Bid available'"
+}

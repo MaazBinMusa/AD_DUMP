@@ -1,0 +1,20 @@
+{
+   "ad_html": "'<span class=\"PubAPIAd\"  id=\"21544A80-77BA-4394-8FB6-C55D3BEBD93E\"><iframe src=\"https://eastads.simpli.fi/ads/1686932/14437397/ad.html?sifi=7369,1686932,14437397,257481584708965,2,0,0,0,0,14,1,v,22.79672,1.753594,0,0,0,20,5D2D5AC2D7AD4806BE1F1CB69F672808,0,0,0,0,400,1,0,0,601,0,701,dcbid161:9050-1583460071773-192121256,1,0,395291,2,0,23,12,52242,0,0.45,0,0,2164219938,0,0,0,1,-5,0,97,,0,102008,0,0,3,-1,158537,-1,-1,4862034&sifi_exchange_uid=87914567-71F8-4E47-895C-0FEB81157BC0&request_id=02240559-5A4D-4A12-AB23-F9012BA1BC31\" width=\"728\" height=\"90\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\"></iframe><iframe width=\"0\" scrolling=\"no\" height=\"0\" frameborder=\"0\" src=\"https://ads.pubmatic.com/AdServer/js/showad.js#PIX&ptask=DSP&SPug=1&fp=1&mpc=10&u=87914567-71F8-4E47-895C-0FEB81157BC0&p=158537&s=607199&d=2&cp=0&sc=1&rs=0&os=0\" style=\"position:absolute;top:-15000px;left:-15000px\" vspace=\"0\" hspace=\"0\" marginwidth=\"0\" marginheight=\"0\" allowtransparency=\"true\" name=\"synciframe\"></iframe><iframe width=\"0\" scrolling=\"no\" height=\"0\" frameborder=\"0\" src=\"https://aktrack.pubmatic.com/AdServer/AdDisplayTrackerServlet?operId=1&pubId=158537&siteId=607199&adId=2296331&adType=10&adServerId=243&kefact=1.046526&kaxefact=1.046526&kadNetFrequecy=0&kadwidth=728&kadheight=90&kadsizeid=7&kltstamp=1583460071&indirectAdId=0&adServerOptimizerId=2&ranreq=0.1&kpbmtpfact=1.753594&dcId=2&tldId=59718309&passback=0&svr=BID88513U&ekefact=565hXgKYDQD-q3mT3pzGpxSZBaatU_g1ytolqCw5lsZhuUad&ekaxefact=565hXhiYDQBWAJANV94J2rAFnLUxH8TkubtRKTnVVlNTdGeg&ekpbmtpfact=565hXiqYDQCEMxr4qYgkOyTg-hzbmVF3xUdL0W5HklzXiKNw&enpp=565hXj2YDQAppXyFoy5_FR2Yz4gQmQbPlcUKLfyxMyUjVX3G&crID=14437397&lpu=uiu.edu&ucrid=4184578949608147467&campaignId=19421&creativeId=0&pctr=0.000000&wDSPByrId=1&wDspId=148&wbId=25&wrId=2841054&wAdvID=76749&isRTB=1&rtbId=02240559-5A4D-4A12-AB23-F9012BA1BC31&imprId=21544A80-77BA-4394-8FB6-C55D3BEBD93E&oid=21544A80-77BA-4394-8FB6-C55D3BEBD93E&cntryId=232&pageURL=https%3A%2F%2Fwww.drudgereport.com%2F&sec=1\" style=\"position:absolute;top:-15000px;left:-15000px\" vspace=\"0\" hspace=\"0\" marginwidth=\"0\" marginheight=\"0\" allowtransparency=\"true\" name=\"pbeacon\"></iframe></span> <!-- PubMatic Ad Ends -->'",
+   "cpm": "0.89",
+   "bidder": "'pubmatic'",
+   "originalCurrency": "'USD'",
+   "pbHg": "'0.89'",
+   "pbLg": "'0.50'",
+   "pbCg": "''",
+   "pbMg": "'0.80'",
+   "pbAg": "'0.85'",
+   "pbDg": "'0.89'",
+   "currency": "'USD'",
+   "height": "90",
+   "size": "'728x90'",
+   "width": "728",
+   "mediaType": "'banner'",
+   "bidderCode": "'pubmatic'",
+   "originalCpm": "'0.89'",
+   "statusMessage": "'Bid available'"
+}

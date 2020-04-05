@@ -1,0 +1,20 @@
+{
+   "ad_html": "'<span class=\"PubAPIAd\"  id=\"AD9EE589-3CBD-4C97-B754-A67556FC8718\"><img src=\"https://rtb-lb-event-iad-1c-tm.everesttech.net/rtb/e.png?e=win&aid=ECE16CAB-AC60-4E5E-99D6-7776DD5D187D.1&cp=2204121&slot=1&x_price=0.040000&ets=1583463771669&tz=America%2FNew_York&source=pubmaticv2&suid=XlUVewAAACE88zft&fc=1&fci=1&country=US&region=IA&mc=48&ap=0&ut=0&vis=UNKNOWN&site=y5ia28nqoaip0QbjsY9w&bp=40000&curr=USD&exr=1.0&fid=E1A7kfB2NvWlRr7jlLP0&c=4117694807&ccurr=USD&cuxr=1.0&a=458168&ca=662065&st=DISPLAY%7CDISPLAY_EXPANDABLE&sh=600&sw=300&rid=4195&mp=165&psk=y5ia28nqoaip0QbjsY9w&cfc=1&cfci=1&dur=-1&cityid=-1&metroid=51&countryid=232&postalid=23406&did=XlUVewAAACE88zft&didtype=TM_COOKIE_ID&v=1&auth=75evPaM840iFKjxdwZk-xpW472M&x_r=fGlEig\" style=\"height: 0px; display: block;\" /><script>var proto = document.location.protocol; if (proto != \\\\'https:\\\\') proto = \\\\'http:\\\\'; if(typeof tm_param_array == \\\\'undefined\\\\')tm_param_array=[];tm_param_array[ \"ECE16CAB-AC60-4E5E-99D6-7776DD5D187D.1\" ] = {\"ifd\": {getIframeData:function(g,d){var c={count:d.count,burl:d.burl,rurl:d.rurl},a,b,h;try{if(g.location&&g.location.href){b=g.location.href;if(!!b){c.burl=b}}}catch(f){}try{a=g.document.referrer;c.count=0}catch(f){c.count++}if(!!a){c.rurl=a}if(g!=top){h=this.getIframeData(g.parent,c)}else{h=c}return h},getRurl:function(){var c=this.getIframeData(window,{count:0,burl:window.location.href,rurl:null}),a=\"Unknown\";try{a=this.redactUserInfo(c.rurl.toString())}catch(b){}return a},getBurl:function(){var a=this.getIframeData(window,{count:0,burl:window.location.href,rurl:null}),b=\"Unknown\";b=this.redactUserInfo(a.burl.toString());return b},getWd:function(){var c=this.getIframeData(window,{count:0,burl:window.location.href,rurl:null}),a=-1;try{a=parseInt(c.count)}catch(b){}return a},redactUserInfo:function(a){if(a.indexOf(\"facebook.com/\")>-1){var b=a.split(\"?\");a=b[0]+\"---REDACTED_FOR_PRIVACY---\"}return a}},\"auction_id\": \"ECE16CAB-AC60-4E5E-99D6-7776DD5D187D.1\"",
+   "cpm": "0.03",
+   "bidder": "'pubmatic'",
+   "originalCurrency": "'USD'",
+   "pbHg": "'0.03'",
+   "pbLg": "'0.00'",
+   "pbCg": "''",
+   "pbMg": "'0.00'",
+   "pbAg": "'0.00'",
+   "pbDg": "'0.03'",
+   "currency": "'USD'",
+   "height": "600",
+   "size": "'300x600'",
+   "width": "300",
+   "mediaType": "'banner'",
+   "bidderCode": "'pubmatic'",
+   "originalCpm": "'0.03'",
+   "statusMessage": "'Bid available'"
+}

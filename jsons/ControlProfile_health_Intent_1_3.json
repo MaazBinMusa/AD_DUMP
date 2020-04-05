@@ -1,0 +1,20 @@
+{
+   "ad_html": "'<div id=\\\\'beacon_QIvHK8oRGedfTJ57k3wx0KKxdb\\\\' style=\\\\'position: absolute; left: 0px; top: 0px; visibility: hidden;\\\\'><img src=\\\\'https://ox-delivery-prod-1-us-central1.openx.net/w/1.0/ri?ai=eff1cc4b-35b5-4c14-9f10-772997f20c70&ph=26da21e7-55d2-4f2c-8393-8cb772ba0923&ts=2DAABBgABAAECAAIBAAsAAgAAAUgcGApVbUlxMVk2SGdQHBbp4cWLlpWFg68BFuXI5qHB6JXC1gEAHBbShtLmpsGW7z8Wl_biiMHH5JyCAQAW1vKM5gsVBBEALBwVAgAcFQIAHBUCAAAcJvLjyoIEFQQVBCba3MqCBBaEx8KCBNbUARbUARbUARbIARbIARbIARbIARaEAgAcHCwWgLGKpLvsg60qFuuytdnn4oDnpQEAABaO2piABBagk6uABBbm5cSBBBawtfKABBUYHBS0ARSwCwAVBCaEAhaEAhaIAhE1DgAsLBajwrX_pq7Qi94BFr3NuevO0aiI3QEAFtbyjOYLBiiO2piABBagk6uABBawtfKABBbm5cSBBBgHMzk0NjY2MRa8GBaIAiUEFjAYBTg2MzM4FQKW6L6FAxEoAk9YDHoUARQBACgDcnRigQAMPDgHYXR0LmNvbQAAAA\\\\'/></div><html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"Expires\" content=\"Tue",
+   "cpm": "0.10600000000000001",
+   "bidder": "'openx'",
+   "originalCurrency": "'USD'",
+   "pbHg": "'0.10'",
+   "pbLg": "'0.00'",
+   "pbCg": "'0.10'",
+   "pbMg": "'0.10'",
+   "pbAg": "'0.10'",
+   "pbDg": "'0.10'",
+   "currency": "'USD'",
+   "height": "90",
+   "size": "'728x90'",
+   "width": "728",
+   "mediaType": "'banner'",
+   "bidderCode": "'openx'",
+   "originalCpm": "0.10600000000000001",
+   "statusMessage": "'Bid available'"
+}

@@ -1,0 +1,20 @@
+{
+   "ad_html": "'<span class=\"PubAPIAd\"  id=\"557F2FA6-5D1E-4A85-804C-0097101F6D97\"><iframe id=\\\\'771b306a\\\\' name=\\\\'771b306a\\\\' src=\\\\'https://ads.us.criteo.com/delivery/r/afr.php?did=5e61a960471df35717ef68ba047e4600&z=0.040000&u=%7CWKyZHZAyCqsuYiY6RjpifIRoCF7xTKl12CgyJDPnSSA%3D%7C&c1=Ep_PiT9wAdrPUWr8wj4yqyF-tCpfCd6AYYE9gEBIhi_PW3nltNkV1aScNuBeQJhlqYMR5LUdP8Kq0srHI7EefHiIp5E2JoRTXfH_0fezGRFsJBgyJWrhqa6RZKJIgR1kYkwQ6imEilssoFKeRJCb5d8gnbVyc28cjIN19YnUUfAXg7uRzuOOiXkbbIACm9_V3zGiE8k9am5lqMHfI_QrBtWJXVEqPKV3RZz7seMHWJedtxxMOhmqY3Nj0jZ4Ay6xlAWN8P5sVZytMn4wJJYQxjLlW9XEIBg_0OEZkdP5mS3ne-d8AkF49-Pn49bkNDkSNs3ZZ62FbcnfNbI8aYgncrDChsS1vudF9QWIh8whJ7Me1HZGxf66BmCnxxgXtBFzsBmJ70U94U3uVS6tjOXtv3COv03u6D6_HnkDXz6y9DouoPkuX-oeYrkLdWRfo43PkKXOo04vGoDo02KynHT2AUG9VjT8DXvw9suGeJwqBFE&ct0=https://clicktrack.pubmatic.com/AdServer/AdDisplayTrackerServlet?clickData=JnB1YklkPTE1ODUzNyZzaXRlSWQ9NjA3MTk5JmFkSWQ9MjI5NjMzMSZrYWRzaXplaWQ9MzImdGxkSWQ9NTk3MTgzMDkmY2FtcGFpZ25JZD0zMzg1JmNyZWF0aXZlSWQ9MCZ1Y3JpZD0xMDA0NTYyMjA4MzUwMDU3NzE3NCZhZFNlcnZlcklkPTI0MyZpbXBpZD01NTdGMkZBNi01RDFFLTRBODUtODA0Qy0wMDk3MTAxRjZEOTcmcGFzc2JhY2s9MA==_url=\\\\' framespacing=\\\\'0\\\\' frameborder=\\\\'no\\\\' scrolling=\\\\'no\\\\' width=\\\\'970\\\\' height=\\\\'250\\\\'></iframe><iframe width=\"0\" scrolling=\"no\" height=\"0\" frameborder=\"0\" src=\"https://ads.pubmatic.com/AdServer/js/showad.js#PIX&ptask=DSP&SPug=1&fp=1&mpc=10&u=4263BFC5-524F-446F-BDB3-E26985DF8B11&p=158537&s=607199&d=2&cp=0&sc=1&rs=0&os=0\" style=\"position:absolute;top:-15000px;left:-15000px\" vspace=\"0\" hspace=\"0\" marginwidth=\"0\" marginheight=\"0\" allowtransparency=\"true\" name=\"synciframe\"></iframe><iframe width=\"0\" scrolling=\"no\" height=\"0\" frameborder=\"0\" src=\"https://aktrack.pubmatic.com/AdServer/AdDisplayTrackerServlet?operId=1&pubId=158537&siteId=607199&adId=2296331&adType=10&adServerId=243&kefact=0.040000&kaxefact=0.040000&kadNetFrequecy=0&kadwidth=970&kadheight=250&kadsizeid=32&kltstamp=1583458657&indirectAdId=0&adServerOptimizerId=2&ranreq=0.1&kpbmtpfact=0.040000&dcId=2&tldId=59718309&passback=0&svr=BID88462U&ekefact=YalhXgQfBAAqy5aNGhIBGJhY6TpxfHBOj0dGcghYOqx6RCj8&ekaxefact=YalhXhkfBAC3ooWTDQDk-W91sUocacueG7A860Y8Fkt0p9kJ&ekpbmtpfact=YalhXiwfBADY6xeGORAGU_Nw7ILEoC3LU4zx5qHN9StCpYO1&enpp=YalhXkAfBADvZ1gEAuNfqJlo4kfvfiaBdqT3g4TFD9lsd3Eg&crID=8647120&lpu=vrbo.com&ucrid=10045622083500577174&campaignId=3385&creativeId=0&pctr=0.000000&wDSPByrId=0&wDspId=97&wbId=0&wrId=2841054&wAdvID=7607&isRTB=1&rtbId=5085252D-86EC-405A-AB90-299D7F5D6008&imprId=557F2FA6-5D1E-4A85-804C-0097101F6D97&oid=557F2FA6-5D1E-4A85-804C-0097101F6D97&cntryId=232&pageURL=https%3A%2F%2Fwww.drudgereport.com%2F&sec=1\" style=\"position:absolute;top:-15000px;left:-15000px\" vspace=\"0\" hspace=\"0\" marginwidth=\"0\" marginheight=\"0\" allowtransparency=\"true\" name=\"pbeacon\"></iframe></span> <!-- PubMatic Ad Ends -->'",
+   "cpm": "0.03",
+   "bidder": "'pubmatic'",
+   "originalCurrency": "'USD'",
+   "pbHg": "'0.03'",
+   "pbLg": "'0.00'",
+   "pbCg": "''",
+   "pbMg": "'0.00'",
+   "pbAg": "'0.00'",
+   "pbDg": "'0.03'",
+   "currency": "'USD'",
+   "height": "250",
+   "size": "'970x250'",
+   "width": "970",
+   "mediaType": "'banner'",
+   "bidderCode": "'pubmatic'",
+   "originalCpm": "'0.03'",
+   "statusMessage": "'Bid available'"
+}

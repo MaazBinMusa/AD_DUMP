@@ -1,0 +1,20 @@
+{
+   "ad_html": "'<script>document.createElement(\\\\'IMG\\\\').src=\"https://tlx.3lift.com/header/notify?px=1&pr=${AUCTION_PRICE}&ts=1583455614&aid=120875736863536050030&ec=4945_66498_351453_ssl&n=GpEDaHR0cDovL3J0Yi11c2UubWZhZHNydnIuY29tL2ltcF9zMnMvdjEvZm1neDhiaFp5bXJWdWxFYVl5ZjVFNlhnaFZnMVpnYkxDb0JPTFJ6aEhqTllqUEZXclNsT2U1dmhmWjZ4LTV5WkJiSUVBcjJ6cHc5STVOcVJ0UWtqMkVMS01TYmIwUkRxb3RzZXc0c2lGMnFvdTJBdl9NYzZfVGV2RlJ3Vjc5S3RXcm9VVHA2N3ZobGswckc0Z0hQTHhoSUZnU1dXTnBmMEJuV2RJVUFQMy1kSGxwbEZiZjBvUzAwdkNuRUNZNGZSMC1BNW9kajNWTEVVb0xjLVV5cjJzVnh1NERoenNBTXFoTThCOUl6SUlFa0tURS1xU19ZZEZKQnFtcFkwYnJ3Ukdqb3c1T251b0EwTGdPWkNvTnhwSDU3R3VHV1hTNWZRRHhydnN5aTJsOHhtanliQjk3VTBZWWdQWXBSZGpvVzlINUF4anVOcUcxYlN1N2J4TG5mMUp6Y0VRT0RlMlMwT2VBeWEvMC4yNTLyAqIBCAASFTEyMDg3NTczNjg2MzUzNjA1MDAzMBgAIAEo0SYwwocEQAFIAFAAYAFoAHDG2RmQAQCYAQCoAbPrmAWwAfwBuAGWAcABygHIAfwB4AGgAfABAPgB%2FAGAAsoBiAKgAZECAAAAAAAA8D%2BZApqZmZmZmck%2FoQIAAAAAAADwP6gCALACAMgCAtgCAPECrkfhehSu7z%2F4AtEmkAMCmAMAoAMA%2BAIMiAMAkgMEMzFhYw%3D%3D\";window.tl_auction_response_969816={\"settings\":{\"advertiser_name\":\"Comparisons.org\",\"viewability\":{},\"impression_pixels\":[\"https:\\\\\\\\/\\\\\\\\/rtb-use.mfadsrvr.com\\\\\\\\/sync?ssp=triplelift&seller_network=triplelift_&bid_id=e4e2cadd-a8f0-434c-bbc3-bd2bd57238d8&initiator=me\"],\"type\":\"image\",\"additional_data\":{\"bc\":\"0.252\",\"uid\":\"7486289602689996165\",\"pr\":\"${AUCTION_PRICE}\",\"brid\":\"421062\",\"bmid\":\"4945\",\"aid\":\"120875736863536050030\",\"ts\":\"1583455614\",\"sid\":\"66498\"},\"adchoices_url\":\"https:\\\\\\\\/\\\\\\\\/optout.aboutads.info\\\\\\\\/\",\"format_id\":1,\"render_options_bm\":0},\"assets\":[{\"image_id\":10892723,\"image_url\":\"\\\\\\\\/\\\\\\\\/images.3lift.com\\\\\\\\/10892723.jpg\",\"image_width\":400,\"image_height\":300,\"heading\":\"Iowa Launches New Policy For Car Used Less Than 50 Miles\\\\\\\\/Day\",\"caption\":\"Launches New Policy For Car Used Less Than 50 Miles\\\\\\\\/Day\",\"clickthrough_url\":\"https:\\\\\\\\/\\\\\\\\/rtb-use.mfadsrvr.com\\\\\\\\/click\\\\\\\\/fmgx8bhZymrVulEaYyf5E6XghVg1ZgbLCoBOLRzhHjNYjPFWrSlOe5vhfZ6x-5yZBbIEAr2zpw9I5NqRtQkj2ELKMSbb0RDqotsew4siF2qou2Av_Mc6_TevFRwV79KtWroUTp67vhlk0rG4gHPLxhIFgSWWNpf0BnWdIUAP3-dHlplFbf0oS00vCnECY4fR0-A5odj3VLEUoLc-Uyr2sVxu4DhzsAMqhM8B9IzIIEkKTE-qS_YdFJBqmpY0brwRGjow5OnuoA0LgOZCoNxpH57GuGWXS5fQDxrvsyi2l8xmjybB97U0YYgPYpRdjoW9H5AxjuNqG1bSu7bxLnf1JzcEQODe2S0OeAya\\\\\\\\/\\\\\\\\/\\\\\\\\/\",\"img_server_params\":\"v=17\",\"image_render_params\":{\"v\":\"17\"}}]};</script><script src=\"//ib.3lift.com/ttj?inv_code=accuweather_d_newsfeed_native_pbjs\" data-auction-response-id=\"969816\"></script>'",
+   "cpm": "0.202",
+   "bidder": "'triplelift'",
+   "originalCurrency": "'USD'",
+   "pbHg": "'0.20'",
+   "pbLg": "'0.00'",
+   "pbCg": "'0.20'",
+   "pbMg": "'0.20'",
+   "pbAg": "'0.20'",
+   "pbDg": "'0.20'",
+   "currency": "'USD'",
+   "height": "2",
+   "size": "'2x2'",
+   "width": "2",
+   "mediaType": "'banner'",
+   "bidderCode": "'triplelift'",
+   "originalCpm": "0.202",
+   "statusMessage": "'Bid available'"
+}

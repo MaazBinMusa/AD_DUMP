@@ -1,0 +1,20 @@
+{
+   "ad_html": "u\"<iframe id='1e55de0d' name='1e55de0d' src='https://ads.us.criteo.com/delivery/r/afr.php?did=5e61aac1bdc44b56d5abde363e355400&u=%7CVKBgDLleO1pO%2BbAYuzqoIFAgBGBUizc7kBujF4DaaTg%3D%7C&c1=Ep_PiT9wAdrPUWr8wj4yq-OaC-gfxTo1jFts5VKXHxl8h26N2BLPj5t-wSTAR51n3nM-zWoLD5oIE-diEO2_tkCz0QVkOg_SQZzKckrKKCLeUHtV7WVwC2v5LcALHK4RhNb3PaHG_NtxaqK9uSt0loinxU8_-IoCZnxf14Z-FZ45BDB9sIzTZ0lXpKmmEx7Vh8dsbFi7kjx-_B90Ojq17jfwA42Of114OnsSkmPnUVQ2bsti_3BqQcliM9ni9rUrRCsg0ZWtknr-c7js_b0SozZDolCuRohmF70q8abdsQd5KX1hPA2FI36kodcdTOcfQ95RNecEPnbXMFqA6sPFa0JFHWChrkwUttMQyXxnLYZajGEU9xLx-_Yub64XCIHzu9OR-fAoktYmLX0qypO3MaHlk-4TQ3OLEEFkRPVFkLtaOdt5cPNP3zquX2jxF0rlY11KPXogoUe3Jjk7PnMvLQ' framespacing='0' frameborder='no' scrolling='no' width='970' height='250'></iframe>\"",
+   "cpm": "0.042428638786077506",
+   "bidder": "'criteo'",
+   "originalCurrency": "'USD'",
+   "pbHg": "'0.04'",
+   "pbLg": "'0.00'",
+   "pbCg": "''",
+   "pbMg": "'0.00'",
+   "pbAg": "'0.00'",
+   "pbDg": "'0.04'",
+   "currency": "'USD'",
+   "height": "250",
+   "size": "'970x250'",
+   "width": "970",
+   "mediaType": "'banner'",
+   "bidderCode": "'criteo'",
+   "originalCpm": "0.042428638786077506",
+   "statusMessage": "'Bid available'"
+}

@@ -1,0 +1,20 @@
+{
+   "ad_html": "'<span class=\"PubAPIAd\"  id=\"A7054808-E5B9-4C50-BC45-4CE3C6292A56\"><script language=\\\\'JavaScript\\\\' src=\\\\'https://tags.mathtag.com/notify/js?id=5aW95q2jLzIxLyAvTmpCaU9UVmxOVFF0Tmprd09TMDBPREF3TFdGbFpqa3ROelUzTldWbFltRXlNVGM0LzI5MTQ1ODcxMzM3MDA1MDExMTYvNzQyNTc5MC81NTEyMTIyLzMvaGZCQ3lvTzBzU1AwTXhOb01ia21BZm9mMWkyS2N3am4xS09vcEJNek5yWS8xLzMvMC8wLzExNTI4MjkvMjE2NDIxOTkzOC8yMjQ5OTcvNzM1NjcwLzEvMC8wL05qQmlPVFZsTlRRdE5qa3dPUzAwT0RBd0xXRmxaamt0TnpVM05XVmxZbUV5TVRjNC8wLzAvMC8wLzEvMjkxNDU4NzEzMzcwMDUwMTExNi9vcmQvMC83OTE2LzYzLzUxLzAvMTI4LjI1NS45Ni4zNC8wLjAwMC8xNTgzNDU4Njg0LzE1ODM0NjIyODQv/fP5BJWQft-dv-9awyiYrfoTfPBo&nodeid=673&group=us-east&auctionid=2914587133700501116&exch=pub&sid=5512122&cid=7425790&price=0.095046&bp=a_ajfchd&nfy_act=LD5wfnw&act=LiIiJiQocHxrPSwuJCMqcHxrKy5wfGshIioqJCMqcHxrOiwkOQsiPwQgPQMiOSQrcH0&3pck=${PUBMATIC_CLICK_TRACKING_URL}\\\\'></script><iframe width=\"0\" scrolling=\"no\" height=\"0\" frameborder=\"0\" src=\"https://ads.pubmatic.com/AdServer/js/showad.js#PIX&ptask=DSP&SPug=1&fp=1&mpc=10&u=0AD284FF-7DC0-4492-99C3-C623A5ECE0E0&p=158537&s=607199&d=2&cp=0&sc=1&rs=0&os=0\" style=\"position:absolute;top:-15000px;left:-15000px\" vspace=\"0\" hspace=\"0\" marginwidth=\"0\" marginheight=\"0\" allowtransparency=\"true\" name=\"synciframe\"></iframe><iframe width=\"0\" scrolling=\"no\" height=\"0\" frameborder=\"0\" src=\"https://aktrack.pubmatic.com/AdServer/AdDisplayTrackerServlet?operId=1&pubId=158537&siteId=607199&adId=2296331&adType=10&adServerId=243&kefact=0.095046&kaxefact=0.095046&kadNetFrequecy=0&kadwidth=300&kadheight=250&kadsizeid=9&kltstamp=1583458697&indirectAdId=0&adServerOptimizerId=2&ranreq=0.1&kpbmtpfact=0.095046&dcId=2&tldId=59718309&passback=0&svr=BID88496U&ekefact=ialhXlLCBQCl9-9ap79suG8ku3zzi3jpNXQze9q2PAPWYo1q&ekaxefact=ialhXmXCBQD8EYVlhfV6mTRX-W_7Jum5gkS0WuNFYC1V-Roy&ekpbmtpfact=ialhXnnCBQAGKNLaUsbyk9eqRxvSoXceATcl-fe33Hj9PAxa&enpp=ialhXovCBQBTkiLUb_CZhPNEJ-mVlT96kEs8Uz4Jvc8zssbh&crID=7425790&lpu=choicehotels.com&ucrid=15010038792153762652&campaignId=16735&creativeId=0&pctr=0.000000&wDSPByrId=101580&wDspId=27&wbId=21&wrId=2841054&wAdvID=2395&isRTB=1&rtbId=7653D95C-7BBE-4597-94C6-C325268B7BD4&imprId=A7054808-E5B9-4C50-BC45-4CE3C6292A56&oid=A7054808-E5B9-4C50-BC45-4CE3C6292A56&cntryId=232&pageURL=https%3A%2F%2Fwww.drudgereport.com%2F&sec=1\" style=\"position:absolute;top:-15000px;left:-15000px\" vspace=\"0\" hspace=\"0\" marginwidth=\"0\" marginheight=\"0\" allowtransparency=\"true\" name=\"pbeacon\"></iframe></span> <!-- PubMatic Ad Ends -->'",
+   "cpm": "0.08",
+   "bidder": "'pubmatic'",
+   "originalCurrency": "'USD'",
+   "pbHg": "'0.08'",
+   "pbLg": "'0.00'",
+   "pbCg": "''",
+   "pbMg": "'0.00'",
+   "pbAg": "'0.05'",
+   "pbDg": "'0.08'",
+   "currency": "'USD'",
+   "height": "250",
+   "size": "'300x250'",
+   "width": "300",
+   "mediaType": "'banner'",
+   "bidderCode": "'pubmatic'",
+   "originalCpm": "'0.08'",
+   "statusMessage": "'Bid available'"
+}

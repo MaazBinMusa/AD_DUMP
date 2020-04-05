@@ -1,0 +1,20 @@
+{
+   "ad_html": "'<script>document.createElement(\\\\'IMG\\\\').src=\"https://tlx.3lift.com/header/notify?px=1&pr=${AUCTION_PRICE}&ts=1583455553&aid=108430865689430408870&ec=4945_66498_358660_ssl&n=GpMDaHR0cDovL3J0Yi11c2UubWZhZHNydnIuY29tL2ltcF9zMnMvdjEvdnVEdV8yV0JNRHQzLTJLeFNQa0FKQWhxQ3BpN09yT3RyM3NONkxrbXpNam1iMkdrTVVLa21CWTN3TzFBR3d1aVNabllHRl90V3JhbDNIVEVTOXJMX2JablNxeVNEVHg3di1NNGtnRGlYeUJ3M3NoUkVrTE5qX3JzbFUtRnlOS3YtNXFTd3Q1eEZCcFlGMnJyMDAyLU5Dd2V3dGsyMTVkWmtXazJFSENIMlRHY0xzMmhxUEk2YmozcHlyUG5tdHlTSWs2R0RZRGh5c21UczB3aGdCTDJldmF1VzBSLTJueUxJckRSRDd3NGRJY0hUcGRlSE5BWTRYQTFvQXp1WUUwcTRqaGNlUE1LUmdRcTRvWE5fQlJRRHpUdGlrMWVkenN3YUNsYThoelBlSi1DODhPXzBiNHRaZG92bDRGdWRSRGJnTUowWkpLRGgzMUxJY01NVndPV0c2REFfU0tvOG1wdzJsLXpWdy8wLjI5NvICogEIABIVMTA4NDMwODY1Njg5NDMwNDA4ODcwGAAgASjRJjDChwRAAUgAUABgAWgAcNnAGJABAJgBAKgB7tyhBbABqAK4AZYBwAHtAcgBqALgAaAB8AEA%2BAGoAoAC7QGIAqABkQIAAAAAAADwP5kCmpmZmZmZyT%2BhAgAAAAAAAPA%2FqAIAsAIAyAIC2AIA8QJmZmZmZmbmP%2FgC0SaQAwKYAwCgAwD4AgyCA6sBaHR0cHM6Ly9wb3N0LnVwZGF0ZS4zbGlmdC5jb20vMi81OTY5MTgvaW1wcmVzc2lvbj90aT0xMDg0MzA4NjU2ODk0MzA0MDg4NzAmY2I9MTU4MzQ1NTU1MyZpcD0xMjguMjU1Ljk2LjM0JmR0PTU5NjkxODE1MjA5NTEzNjczNjEwMDAmcHY9MDNkZmVjMWYtMTlhMC00ODM3LTg0OWMtMzc3N2IwNTJlZjQ3iAMAkgMEMzFhYw%3D%3D\";window.tl_auction_response_980859={\"settings\":{\"advertiser_name\":\"Gundry MD\",\"viewability\":{},\"impression_pixels\":[\"https:\\\\\\\\/\\\\\\\\/rtb-use.mfadsrvr.com\\\\\\\\/sync?ssp=triplelift&seller_network=triplelift_&bid_id=73110309-5f07-46ef-bec7-601e8e8bac7b&initiator=me\"],\"js_trackers\":[\"https:\\\\\\\\/\\\\\\\\/s.update.3lift.com\\\\\\\\/2\\\\\\\\/596918\\\\\\\\/analytics.js?ai=401497&pp=2895&si=36042&sr=12&pc=38498&di=accuweather.com&md=1&gt=US&c1=4945&c2=66498&ti=108430865689430408870&cb=1583455553&dt=5969181520951367361000&pv=03dfec1f-19a0-4837-849c-3777b052ef47&to=3\"],\"type\":\"image\",\"additional_data\":{\"bc\":\"0.296\",\"uid\":\"16529274047859224204\",\"pr\":\"${AUCTION_PRICE}\",\"brid\":\"401497\",\"bmid\":\"4945\",\"aid\":\"108430865689430408870\",\"ts\":\"1583455553\",\"sid\":\"66498\"},\"adchoices_url\":\"https:\\\\\\\\/\\\\\\\\/optout.aboutads.info\\\\\\\\/\",\"format_id\":1,\"render_options_bm\":0},\"assets\":[{\"image_id\":11038318,\"image_url\":\"\\\\\\\\/\\\\\\\\/images.3lift.com\\\\\\\\/11038318.jpg\",\"image_width\":400,\"image_height\":300,\"heading\":\"Drink This Before Bed",
+   "cpm": "0.23700000000000002",
+   "bidder": "'triplelift'",
+   "originalCurrency": "'USD'",
+   "pbHg": "'0.23'",
+   "pbLg": "'0.00'",
+   "pbCg": "'0.23'",
+   "pbMg": "'0.20'",
+   "pbAg": "'0.20'",
+   "pbDg": "'0.23'",
+   "currency": "'USD'",
+   "height": "2",
+   "size": "'2x2'",
+   "width": "2",
+   "mediaType": "'banner'",
+   "bidderCode": "'triplelift'",
+   "originalCpm": "0.23700000000000002",
+   "statusMessage": "'Bid available'"
+}

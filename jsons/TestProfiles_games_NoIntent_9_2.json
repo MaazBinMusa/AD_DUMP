@@ -1,0 +1,20 @@
+{
+   "ad_html": "'<div id=\"emximp\"><script>var adm=\\\\'\\\\\\\\<script\\\\\\\\ src\\\\\\\\=\\\\\\\\\\\\'https\\\\\\\\:\\\\\\\\/\\\\\\\\/a\\\\\\\\-nj\\\\\\\\.1rx\\\\\\\\.io\\\\\\\\/rtbdeliver\\\\\\\\/js\\\\\\\\?excid\\\\\\\\=emx\\\\\\\\&pickup\\\\\\\\=e376c53d6de63f76a3dcf348cb96b527\\\\\\\\&zrk\\\\\\\\=4f210958e914f2a23bbe90eb0edbcc60\\\\\\\\&zds\\\\\\\\=0ae1023d9906bf262d9c4d80af97c720\\\\\\\\&imp\\\\\\\\=af2da82e456dcaa7ef4a72f209098528\\\\\\\\&rtbserve\\\\\\\\=1\\\\\\\\&zwp\\\\\\\\=\\\\\\\\$\\\\\\\\{EMX_MACRO\\\\\\\\}\\\\\\\\&pv\\\\\\\\=1\\\\\\\\&prc\\\\\\\\=ZX0\\\\\\\\.7791592537343239\\\\\\\\&extra\\\\\\\\=1\\\\\\\\\\\\'\\\\\\\\>\\\\\\\\<\\\\\\\\/script\\\\\\\\><script src=\"https://imp.emxdgt.com/imp/?cp=0.05000&ts=1583458326&adom=truereligion.com&seat=1128-1&w=970&h=90&pb=0.04&sid=8886&tid=78220&pid=1287&uid=08951583458326204769e1&wid=31&dom=www.drudgereport.com&tp=${EMX_MACRO}&rf=${RF_MACRO}&crid=cr-devvzm4qu8y\"><\\\\\\\\/script>\\\\'; window.vc= \\\\'https://imp.emxdgt.com/view/?cp=0.05000&ts=1583458326&adom=truereligion.com&seat=1128-1&w=970&h=90&pb=0.04&sid=8886&tid=78220&pid=1287&uid=08951583458326204769e1&wid=31&dom=www.drudgereport.com&tp=${EMX_MACRO}&rf=${RF_MACRO}&crid=cr-devvzm4qu8y\\\\';  var ap=\"${AUCTION_PRICE}\";var rf=document.domain; window.cp=\"0.05000\"; if(ap == \"test=1\" || ap == \"AUDIT\" || rf == \"s3.amazonaws.com\"){var finaladm=adm.replace(/\\\\\\\\${EMX_MACRO}/g,\"AUDIT\"); window.audit = true;}else{var finaladm=finaladm=adm.replace(/\\\\\\\\${EMX_MACRO}/g,window.cp);}finaladm=finaladm.replace(/\\\\\\\\${RF_MACRO}/g,rf);try{document.write(decodeURI(finaladm));}catch(e){document.write(unescape(finaladm));};</script><script src=\"https://js.brealtime.com/openvv.js\"></script></div>'",
+   "cpm": "0.04",
+   "bidder": "'emx_digital'",
+   "originalCurrency": "'USD'",
+   "pbHg": "'0.04'",
+   "pbLg": "'0.00'",
+   "pbCg": "''",
+   "pbMg": "'0.00'",
+   "pbAg": "'0.00'",
+   "pbDg": "'0.04'",
+   "currency": "'USD'",
+   "height": "250",
+   "size": "'970x250'",
+   "width": "970",
+   "mediaType": "'banner'",
+   "bidderCode": "'emx_digital'",
+   "originalCpm": "0.04",
+   "statusMessage": "'Bid available'"
+}

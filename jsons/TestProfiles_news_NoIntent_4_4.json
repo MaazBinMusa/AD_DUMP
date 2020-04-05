@@ -1,0 +1,20 @@
+{
+   "ad_html": "'<!-- Creative 188004763 served by Member 1212 via AppNexus --><DIV STYLE=\"position: absolute; left: 0px; top: 0px; visibility: hidden;\"><IMG SRC=\"https://pagead2.googlesyndication.com/pagead/gen_204?id=xbid&dbm_b=AKAmf-C3hop1SgH2iU7ioWOX7KBpLe8V33KFNx9OvV1e8u9muBdI7ALBc5Uju8wAtHOEZISxBLrHCZBFam4p-w9ZzaLI1oOtKsvIElZZyJ6QTbb9iHGtbYI\" BORDER=0 WIDTH=1 HEIGHT=1 ALT=\"\" STYLE=\"display:none\"></DIV><iframe title=\"Blank\" src=\"https://googleads.g.doubleclick.net/xbbe/pixel?d=CMGuFBCuxmIYhbe4YTAB&v=APEucNVX6sQRQI9EzEaL7X1aXh6BgF2DtL6st5AO1KRAdh8SkT3nMNwvc3iw8KKHcL7VnDUJ3OK17y8FuH-N6WxHOqeQMgZdEA\" style=\"display:none\" aria-hidden=\"true\"></iframe><div><div style=\"position:relative; display:inline-block;\"><script data-jc=\"75\">(function(){/*  Copyright The Closure Library Authors. SPDX-License-Identifier: Apache-2.0 */ var k=this||self;var l=Array.prototype.forEach?function(a,b){Array.prototype.forEach.call(a,b,void 0)}:function(a,b){for(var d=a.length,c=\"string\"===typeof a?a.split(\"\"):a,e=0;e<d;e++)e in c&&b.call(void 0,c[e],e,a)},m=Array.prototype.map?function(a,b){return Array.prototype.map.call(a,b,void 0)}:function(a,b){for(var d=a.length,c=Array(d),e=\"string\"===typeof a?a.split(\"\"):a,f=0;f<d;f++)f in e&&(c[f]=b.call(void 0,e[f],f,a));return c},n=Array.prototype.reduce?function(a,b,d){return Array.prototype.reduce.call(a,b",
+   "cpm": "0.009726",
+   "bidder": "'appnexus'",
+   "originalCurrency": "'USD'",
+   "pbHg": "'0.00'",
+   "pbLg": "'0.00'",
+   "pbCg": "''",
+   "pbMg": "'0.00'",
+   "pbAg": "'0.00'",
+   "pbDg": "'0.00'",
+   "currency": "'USD'",
+   "height": "250",
+   "size": "'300x250'",
+   "width": "300",
+   "mediaType": "'banner'",
+   "bidderCode": "'appnexus'",
+   "originalCpm": "0.009726",
+   "statusMessage": "'Bid available'"
+}

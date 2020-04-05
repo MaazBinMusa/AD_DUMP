@@ -1,0 +1,20 @@
+{
+   "ad_html": "u\"<div id='beacon_SBnINeXHcgksNwXUeC3qYxhJAS' style='position: absolute; left: 0px; top: 0px; visibility: hidden;'><img src='https://ox-delivery-prod-1-us-central1.openx.net/w/1.0/ri?ph=4ab08c87-bd85-4c24-95a6-119ab5a97781&ts=2DAABBgABAAECAAIBAAsAAgAAAV0cGApJcmhzSUVVQ2JKHBaT_L2m3LDVKRb3y921v6W5gaMBABwW0K7i-capmKuuARab566e3vuElooBABaClY3mCxUEOCQ4MWMyYzZhNS05YzI2LTQ3MTktYjUyZS0xNzU3NTEwODk4MGIALBwVAgAcFQIAHBUCAAAcJpqf5oMEFQQVBCaGn-aDBBb-h-aDBNYUFhQWFBYUFhQWFBYUFhQAHBwsFoCxiqS77IOtKhbrsrXZ5-KA56UBAAAW8tuYgAQWmoucgAQWrpyrgAQWtvWegAQVGBwU9AMUlA8AFQQmFBYUFhQRNQ4ALCwW9oqyrduGgfcJFrGR2sH9q72cmAEAFoKVjeYLBijy25iABBaai5yABBa29Z6ABBaunKuABBgHODY0NzEyMBaMJhYUJQQWACUClsLKjAIRKAJPWAx6FPgDFKYGABYCGANydGKBAAw8OAh2cmJvLmNvbQAAAA'/></div><iframe id='3305db63' name='3305db63' src='https://ads.us.criteo.com/delivery/r/afr.php?did=5e61a54183572e6c36e22f696d154d00&z=AAABcK1tiLL1E_iwAI1-ryj4gLL3iI2ue0MrAA&u=%7CkMIbvsYF2mOT1jpEpgCBiRycrmFWgek%2FCeBqwa%2FVKB8%3D%7C&c1=Ep_PiT9wAdrPUWr8wj4yqyF-tCpfCd6AYYE9gEBIhi_BhlajXAyoFswGBZB3d6-EksFBU7dho0J_XqsmjXyh5abTiA0nFCBT8k1q1kY6OQUzuqQdovZsavpEmr56QB50GllWqNIOo8RR92ydgf-X9bpVvSpUNCUp7Tq7SurdMG1rIlHDFm0ugQ07-1TcoIZCybSYqXxeBK37vXniiONFEQP-Rp6zzEAs6S-Pcoheg3A5MrcEKwV_-6n_IqNPH_ZGHR7TPGaYFpKXw0XTLCEryqV0YvBGXR3OWnEzLglIcXNw-SjNJDYISn0Onz2dfOTCurZmccsMVsWby-fJMD5rLwJmjew5sFt3JqpVJD_Nsi9G4EfTWq_jmGGNX6tEWkW7gW-zMaJGsZ4qeIPMsaAyCjS0h0tvSSQceiI95XwB6YKOh_ysfYbJ97XnjbkfnOSApLi9buUWqwrxXYxwOveG_gvyTKKiAdR-9UhPvvC-hlADhdRdP_0qEA' framespacing='0' frameborder='no' scrolling='no' width='970' height='250'></iframe>\"",
+   "cpm": "0.01",
+   "bidder": "'openx'",
+   "originalCurrency": "'USD'",
+   "pbHg": "'0.01'",
+   "pbLg": "'0.00'",
+   "pbCg": "''",
+   "pbMg": "'0.00'",
+   "pbAg": "'0.00'",
+   "pbDg": "'0.01'",
+   "currency": "'USD'",
+   "height": "250",
+   "size": "'970x250'",
+   "width": "970",
+   "mediaType": "'banner'",
+   "bidderCode": "'openx'",
+   "originalCpm": "0.01",
+   "statusMessage": "'Bid available'"
+}
