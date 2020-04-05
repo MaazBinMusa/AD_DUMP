@@ -5,6 +5,15 @@
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php  
+for ($x = 0; $x <= 10; $x++) {
+  echo "The number is: $x <br>";
+}
+?> 
 
 <table class="tg">
   <tr>
@@ -24,9 +33,7 @@
   </tr>
 </table>
 
-<?php  
-for ($x = 0; $x <= 10; $x++) {
-  echo "The number is: $x <br>";
-}
-?>
+</body>
+</html>
+
 
