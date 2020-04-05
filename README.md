@@ -6,7 +6,6 @@
 | Content Cell  | Content Cell  |
 
 
-/***
 <table class="tg">
   <tr>
     <th class="tg-yw4l"><b>Animals</b></th>
@@ -24,4 +23,3 @@
     <td class="tg-yw4l">Orange</td>
   </tr>
 </table>
-***/
