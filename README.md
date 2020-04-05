@@ -9,12 +9,6 @@
 <html>
 <body>
 
-<?php  
-for ($x = 0; $x <= 10; $x++) {
-  echo "The number is: $x <br>";
-}
-?> 
-
 <table class="tg">
   <tr>
     <th class="tg-yw4l"><b>Animals</b></th>
