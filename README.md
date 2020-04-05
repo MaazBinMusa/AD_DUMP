@@ -5,10 +5,6 @@
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-<!DOCTYPE html>
-<html>
-<body>
-
 <table class="tg">
   <tr>
     <th class="tg-yw4l"><b>Animals</b></th>
@@ -26,8 +22,5 @@
     <td class="tg-yw4l">Orange</td>
   </tr>
 </table>
-
-</body>
-</html>
 
 
