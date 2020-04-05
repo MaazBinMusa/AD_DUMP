@@ -1,1 +1,122 @@
-gh-pages
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>AD_DUMP</title>
+        <link type="text/css" rel="stylesheet" href="https://unpkg.com/bootstrap/dist/css/bootstrap.min.css"/>
+        <style>
+            .adImage {
+                width: 50px;
+                height: 50px;
+            }
+            th > div {
+                display: flex;
+                justify-content: space-between;
+                cursor: pointer;
+            }
+            th:hover,
+            .gray {
+                background: #f0f0f0;
+            }
+            .show-more {
+                width: 100%;
+                height: 32px;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="tableApp">
+            <table class="table">
+                <tr>
+                    <th><div>adImage</div></th>
+                    <th v-bind:class="{'gray':sortKey=='filename'}"><div @click='sortBy("filename")'>filename</div></th> 
+                    <th v-bind:class="{'gray':sortKey=='mediaType'}"><div @click='sortBy("mediaType")'>mediaType</div></th>
+                    <th v-bind:class="{'gray':sortKey=='bidderCode'}"><div @click='sortBy("bidderCode")'>bidderCode</div></th>
+                    <th v-bind:class="{'gray':sortKey=='cpm'}"><div @click='sortBy("cpm")'>cpm</div></th>
+                    <th v-bind:class="{'gray':sortKey=='width'}"><div @click='sortBy("width")'>width</div></th>
+                    <th v-bind:class="{'gray':sortKey=='pbCg'}"><div @click='sortBy("pbCg")'>pbCg</div></th>
+                    <th v-bind:class="{'gray':sortKey=='originalCpm'}"><div @click='sortBy("originalCpm")'>originalCpm</div></th>
+                    <th v-bind:class="{'gray':sortKey=='originalCurrency'}"><div @click='sortBy("originalCurrency")'>originalCurrency</div></th>
+                    <th v-bind:class="{'gray':sortKey=='pbLg'}"><div @click='sortBy("pbLg")'>pbLg</div></th>
+                    <th v-bind:class="{'gray':sortKey=='height'}"><div @click='sortBy("height")'>height</div></th>
+                    <th v-bind:class="{'gray':sortKey=='currency'}"><div @click='sortBy("currency")'>currency</div></th>
+                    <th v-bind:class="{'gray':sortKey=='pbMg'}"><div @click='sortBy("pbMg")'>pbMg</div></th>
+                    <th v-bind:class="{'gray':sortKey=='pbDg'}"><div @click='sortBy("pbDg")'>pbDg</div></th>
+                    <th v-bind:class="{'gray':sortKey=='pbHg'}"><div @click='sortBy("pbHg")'>pbHg</div></th>
+                    <th v-bind:class="{'gray':sortKey=='size'}"><div @click='sortBy("size")'>size</div></th>
+                    <th v-bind:class="{'gray':sortKey=='bidder'}"><div @click='sortBy("bidder")'>bidder</div></th>
+                    <th v-bind:class="{'gray':sortKey=='statusMessage'}"><div @click='sortBy("statusMessage")'>statusMessage</div></th>
+                    <th v-bind:class="{'gray':sortKey=='pbAg'}"><div @click='sortBy("pbAg")'>pbAg</div></th>
+                </tr>
+                <tr v-for="item in sortedItems">
+                    <td>
+                        <a v-bind:href="item.img_url" target="_blank">View Image</a>
+                    </td>
+                    <td v-bind:class="{'gray':sortKey=='filename'}">{{ item.filename }}</td>
+                    <td v-bind:class="{'gray':sortKey=='mediaType'}">{{ item.mediaType }}</td>
+                    <td v-bind:class="{'gray':sortKey=='bidderCode'}">{{ item.bidderCode }}</td>
+                    <td v-bind:class="{'gray':sortKey=='cpm'}">{{ item.cpm }}</td>
+                    <td v-bind:class="{'gray':sortKey=='width'}">{{ item.width }}</td>
+                    <td v-bind:class="{'gray':sortKey=='pbCg'}">{{ item.pbCg }}</td>
+                    <td v-bind:class="{'gray':sortKey=='originalCpm'}">{{ item.originalCpm }}</td>
+                    <td v-bind:class="{'gray':sortKey=='originalCurrency'}">{{ item.originalCurrency }}</td>
+                    <td v-bind:class="{'gray':sortKey=='pbLg'}">{{ item.pbLg }}</td>
+                    <td v-bind:class="{'gray':sortKey=='height'}">{{ item.height }}</td>
+                    <td v-bind:class="{'gray':sortKey=='currency'}">{{ item.currency }}</td>
+                    <td v-bind:class="{'gray':sortKey=='pbMg'}">{{ item.pbMg }}</td>
+                    <td v-bind:class="{'gray':sortKey=='pbDg'}">{{ item.pbDg }}</td>
+                    <td v-bind:class="{'gray':sortKey=='pbHg'}">{{ item.pbHg }}</td>
+                    <td v-bind:class="{'gray':sortKey=='size'}">{{ item.size }}</td>
+                    <td v-bind:class="{'gray':sortKey=='bidder'}">{{ item.bidder }}</td>
+                    <td v-bind:class="{'gray':sortKey=='statusMessage'}">{{ item.statusMessage }}</td>
+                    <td v-bind:class="{'gray':sortKey=='pbAg'}">{{ item.pbAg }}</td>
+                </tr>
+                <tr>
+                    <td colspan="19"><button @click="topN += 50" class="show-more">Show more</button></td>
+                </tr>
+            </table>
+        </div>
+
+
+        <script src="https://unpkg.com/vue/dist/vue.min.js"></script>
+        <!-- <script src="https://unpkg.com/bootstrap-vue@latest/dist/bootstrap-vue.min.js"></script> -->
+        <script>
+            const tableApp = new Vue({
+                el: '#tableApp',
+                data: {
+                    items: [],
+                    sortKey: 'filename',
+                    invertSort: false,
+                    search: null,
+                    topN: 50
+                },
+                methods: {
+                    sortBy: function(key) {
+                        if (this.sortKey == key) {
+                            this.invertSort = !this.invertSort;
+                        }
+                        this.sortKey = key;
+                    }
+                },
+                computed: {
+                    sortedItems: function() {
+                        let sortFn = (a, b) => {
+                            if (this.invertSort) {
+                                return a[this.sortKey] < b[this.sortKey];
+                            }
+                            return b[this.sortKey] < a[this.sortKey];
+                        }
+                        return this.items.sort(sortFn).slice(0, this.topN);
+                    }
+                },
+                created() {
+                    let vm = this;
+                    fetch('final_json.json')
+                        .then(resp => resp.json())
+                        .then(js => {
+                            vm.items = js;
+                        });
+                }
+            })
+        </script>
+    </body>
+</html>
