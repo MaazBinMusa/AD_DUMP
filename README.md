@@ -22,11 +22,11 @@
     <td class="tg-yw4l">Basketball</td>
     <td class="tg-yw4l">Orange</td>
   </tr>
-  
-  <?php
-    for ($x = 0; $x <= 10; $x++) {
-    echo "<tr> The number is: $x </tr>";
-    }
-  ?>
-  
 </table>
+
+<?php  
+for ($x = 0; $x <= 10; $x++) {
+  echo "The number is: $x <br>";
+}
+?>
+
